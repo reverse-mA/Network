@@ -21,7 +21,7 @@ public class Client {
     public void go(){
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String requestLine="";
-        
+
         while (true){
             System.out.print("telnet>");
 

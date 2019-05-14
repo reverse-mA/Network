@@ -118,3 +118,4 @@ Content-length:Post有
 
 
 状态码详解：http://tomcat.apache.org/tomcat-5.5-doc/servletapi/constant-values.html#javax.servlet.http.HttpServletResponse.SC_NOT_MODIFIED
+服务端参考：https://www.cnblogs.com/xzmblog/p/4505237.html
